@@ -1,0 +1,2 @@
+XorFilesMerger
+RenameAsParentDirRecursively
